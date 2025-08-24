@@ -183,10 +183,3 @@ If this repo helps your work or teaching, consider citing it:
 
 ---
 
-### ⭐ If you publish this on GitHub
-
-1. Create a new repo and add these files.
-2. Paste this README as `README.md`.
-3. Commit `flappy_dqn.py` and `requirements.txt`.
-4. (Optional) Add `LICENSE` and `.gitignore` from above.
-5. Push and share! 🚀
